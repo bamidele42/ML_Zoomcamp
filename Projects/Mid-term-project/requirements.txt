@@ -1,0 +1,5 @@
+waitress
+pickle
+numpy
+flask
+gunicorn
